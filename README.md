@@ -3,6 +3,6 @@
 Я захотел сделать анимированные обои.
 Это программа с открытым исходным кодом.
 Она использует weebp и mpv. Программу можно запустить из консоли,
-например "wrc --video test.wmv" или "wrc -v test.wmv",
+например "wrc --video videos\test.wmv" или "wrc -v videos\test.wmv",
 так же есть интерфейс написанный на tkinter.
-![main](https://user-images.githubusercontent.com/98618381/225032388-f6dbd738-9568-45c5-bdf3-9413de01f945.png)
+![main](https://user-images.githubusercontent.com/98618381/235349799-954ca898-a1b6-4736-8fde-3430e2b2f354.png)
